@@ -11,3 +11,6 @@ user_guide/index
 developer_guide/index
 api_reference/index
 faq/index
+
+- [Introduction](./guide/)
+- [API Reference](./api/)
