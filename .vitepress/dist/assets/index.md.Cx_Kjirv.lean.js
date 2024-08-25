@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a9 as o}from"./chunks/framework.B53v_ogW.js";const m=JSON.parse('{"title":"Welcome to Resolute Docs","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"},l=o("",4),r=[l];function s(n,c,d,u,_,h){return a(),t("div",null,r)}const p=e(i,[["render",s]]);export{m as __pageData,p as default};

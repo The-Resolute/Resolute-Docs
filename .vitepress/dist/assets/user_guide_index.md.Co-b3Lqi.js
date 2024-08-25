@@ -1,0 +1,5 @@
+import{_ as e,c as a,o as s,a9 as n}from"./chunks/framework.B53v_ogW.js";const g=JSON.parse('{"title":"User Guide","description":"","frontmatter":{},"headers":[],"relativePath":"user_guide/index.md","filePath":"user_guide/index.md"}'),t={name:"user_guide/index.md"},i=n(`<h1 id="user-guide" tabindex="-1">User Guide <a class="header-anchor" href="#user-guide" aria-label="Permalink to &quot;User Guide&quot;">​</a></h1><p>The User Guide provides detailed information on how to use My Project, including tutorials and advanced features.</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>:maxdepth: 2</span></span>
+<span class="line"><span>:caption: User Guide:</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>basic_usage</span></span>
+<span class="line"><span>advanced_features</span></span></code></pre></div>`,3),d=[i];function p(o,r,c,l,u,_){return s(),a("div",null,d)}const m=e(t,[["render",p]]);export{g as __pageData,m as default};
