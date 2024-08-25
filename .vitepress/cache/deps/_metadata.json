@@ -1,0 +1,49 @@
+{
+  "hash": "7bb73b44",
+  "configHash": "c75369dd",
+  "lockfileHash": "564a8351",
+  "browserHash": "3b13414a",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "843290d3",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "822dbd80",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "bb6543c5",
+      "needsInterop": false
+    },
+    "medium-zoom": {
+      "src": "../../../node_modules/medium-zoom/dist/medium-zoom.esm.js",
+      "file": "medium-zoom.js",
+      "fileHash": "aa1ad221",
+      "needsInterop": false
+    },
+    "lite-youtube-embed": {
+      "src": "../../../node_modules/lite-youtube-embed/src/lite-yt-embed.js",
+      "file": "lite-youtube-embed.js",
+      "fileHash": "58e0fc54",
+      "needsInterop": true
+    },
+    "vue3-tabs-component": {
+      "src": "../../../node_modules/vue3-tabs-component/dist/vue3-tabs-component.mjs",
+      "file": "vue3-tabs-component.js",
+      "fileHash": "4b1a474e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-45KCXATN": {
+      "file": "chunk-45KCXATN.js"
+    }
+  }
+}

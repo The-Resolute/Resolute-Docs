@@ -2,7 +2,7 @@
 import { h } from "vue";
 
 import DefaultTheme from "vitepress/theme";
-import "./style.css";
+import "./styles.css";
 
 // To support medium-zoom - like setup()
 import { onMounted, watch, nextTick } from "vue";

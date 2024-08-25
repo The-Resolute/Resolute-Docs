@@ -1,0 +1,18 @@
+/* Custom Styles for Resolute Docs */
+
+/* Dark Mode */
+:root {
+  --vp-nav-background: #333;
+  --vp-nav-link-color: #fff;
+  --vp-sidebar-background: #222;
+  --vp-sidebar-link-color: #ccc;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --vp-nav-background: #f0f0f0;
+    --vp-nav-link-color: #333;
+    --vp-sidebar-background: #fff;
+    --vp-sidebar-link-color: #000;
+  }
+}
